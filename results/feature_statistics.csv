@@ -1,0 +1,15 @@
+Feature,Type,Unique_Values,Missing,Missing_%
+Age,int64,41,0,0.0
+Sex,int64,2,0,0.0
+Chest pain type,int64,4,0,0.0
+BP,int64,47,0,0.0
+Cholesterol,int64,144,0,0.0
+FBS over 120,int64,2,0,0.0
+EKG results,int64,3,0,0.0
+Max HR,int64,90,0,0.0
+Exercise angina,int64,2,0,0.0
+ST depression,float64,39,0,0.0
+Slope of ST,int64,3,0,0.0
+Number of vessels fluro,int64,4,0,0.0
+Thallium,int64,3,0,0.0
+Heart Disease,object,2,0,0.0

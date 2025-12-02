@@ -1,0 +1,18 @@
+HEART DISEASE PREDICTION - ANALYSIS SUMMARY
+================================================================================
+
+Dataset:
+  Total Samples: 270
+  Features: 13
+  Disease Cases: 120
+  No Disease Cases: 150
+
+Best Model:
+  Name: Logistic Regression
+  Accuracy: 0.8824
+  AUC: 0.9202
+
+Clustering:
+  Optimal k: 3
+  PCA Variance Explained: 0.355
+
